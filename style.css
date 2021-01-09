@@ -39,7 +39,7 @@ section{
     padding: 1%;
     box-shadow: 10px 10px 20px whitesmoke;
     border-radius: 20px;
-    height: 480px;
+    height: 400px;
     background-color: black;
     color: white;
     
@@ -47,6 +47,7 @@ section{
 .latest-work-project img{
     width: 100%;
     border-radius: 10px;
+    height: 200px;
     
 }
 #s3-1{
